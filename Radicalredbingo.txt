@@ -1,0 +1,372 @@
+[{
+		"name": "Catch Pikachu, and use its line in at least 1 boss fight",
+		"category": "Catch Pokémon"
+	},
+	{
+		"name": "Catch Gallade, and use its line in at least 1 boss fight",
+		"category": "Catch Pokémon"
+	},
+	{
+		"name": "Catch Snover, and use its line in at least 1 boss fight",
+		"category": "Catch Pokémon"
+	},
+	{
+		"name": "Catch Honchkrow, and use its line against at least 1 Rocket Leader (or the E4)",
+		"category": "Catch Pokémon"
+	},
+	{
+		"name": "Catch Dragapult, and use its line in at least 1 Gym (or the E4)",
+		"category": "Catch Pokémon"
+	},
+	{
+		"name": "Catch Nidorino, and use its line against the E4",
+		"category": "Catch Pokémon"
+	},
+	{
+		"name": "Catch Whimsicott, and use its line against the E4",
+		"category": "Catch Pokémon"
+	},
+	{
+		"name": "Catch Turtonator, and use its line against at least one Gym (or the E4)",
+		"category": "Catch Pokémon"
+	},
+	{
+		"name": "Catch Munna, and use its line against at least one Gym (or the E4)",
+		"category": "Catch Pokémon"
+	},
+	{
+		"name": "Catch Pancham, and use its line against at least one Gym (or the E4)",
+		"category": "Catch Pokémon"
+	},
+	{
+		"name": "Catch Misdreavus and use its line against at least one boss fight",
+		"category": "Catch Pokémon"
+	},
+	{
+		"name": "Catch Komala, and use its line against at least one boss fight",
+		"category": "Catch Pokémon"
+	},
+	{
+		"name": "Catch Blastoise, and use its line in at least one Rival battle.",
+		"category": "Catch Pokémon"
+	},
+
+	{
+		"name": "Catch and use 1 Pokemon with Toxic Boost in Gyms",
+		"category": "Pokemon With Abilities"
+	},
+
+	{
+		"name": "Catch and use 1 Pokemon with Mega Launcher in Gyms",
+		"category": "Pokemon With Abilities"
+	},
+
+	{
+		"name": "Catch and use 5 Pokemon with Cute Charm in Gyms",
+		"category": "Pokemon With Abilities"
+	},
+
+	{
+		"name": "Catch and use 1 Pokemon with Triage in Gyms",
+		"category": "Pokemon With Abilities"
+	},
+
+	{
+		"name": "Catch and use 3 Pokemon with Synchronise in Gyms",
+		"category": "Pokemon With Abilities"
+	},
+{
+		"name": "Catch and use 5 Normal Types in Gym battles",
+		"category": "Typing"
+	},
+
+	{
+		"name": "Catch and use 6 Ground Types in Gym battles",
+		"category": "Typing"
+	},
+	{
+		"name": "Find Grip Claw",
+		"category": "Find Items"
+	},
+	{
+		"name": "Find Focus Band",
+		"category": "Find Items"
+	},
+	{
+		"name": "Find Ganlon Berry",
+		"category": "Find Items"
+	},
+	{
+		"name": "Find Chesto Berry",
+		"category": "Find Items"
+	},
+	{
+		"name": "Find Weakness Policy",
+		"category": "Find Items"
+	},
+	{
+		"name": "Find Icy Rock",
+		"category": "Find Items"
+	},
+
+	{
+		"name": "Find Psychic Seed",
+		"category": "Find Items"
+	},
+
+	{
+		"name": "Find Metronome",
+		"category": "Find Items"
+	},
+
+	{
+		"name": "Find Magnet",
+		"category": "Find Items"
+	},
+
+	{
+		"name": "Find Silk Scarf",
+		"category": "Find Items"
+	},
+
+	{
+		"name": "Beat Brock",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat Misty",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat Lt. Surge",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat Erika",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat Koga",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat Sabrina",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat Blaine",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat the final Giovanni fight",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat Falkner",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat Bugsy",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat Whitney",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat Morty",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat Chuck",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat Jasmine",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat Pryce",
+		"category": "Gym Leaders"
+	},
+	{
+		"name": "Beat Clair",
+		"category": "Gym Leaders"
+	},
+
+	{
+		"name": "Complete Power Plant",
+		"category": "Complete Dungeons"
+	},
+	{
+		"name": "Complete Cerulean Cave",
+		"category": "Complete Dungeons"
+	},
+	{
+		"name": "Complete Rock Tunnel",
+		"category": "Complete Dungeons"
+	},
+	{
+		"name": "Complete Pokemon Tower",
+		"category": "Complete Dungeons"
+	},
+	{
+		"name": "Complete Silph Co.",
+		"category": "Complete Dungeons"
+	},
+	{
+		"name": "Pick up TM 13 (Earthquake)",
+		"category": "Pick up TMs"
+	},
+	{
+		"name": "Pick up TM 29 (Psychic)",
+		"category": "Pick up TMs"
+	},
+	{
+		"name": "Pick up TM 52 (Focus Blast)",
+		"category": "Pick up TMs"
+	},
+	{
+		"name": "Pick up TM 86 (Grass Knot)",
+		"category": "Pick up TMs"
+	},
+	{
+		"name": "Pick up TM 106 (Acrobatics)",
+		"category": "Pick up TMs"
+	},
+	{
+		"name": "Obtain HM01 Cut",
+		"category": "HMs"
+	},
+	{
+		"name": "Obtain HM02 Fly",
+		"category": "HMs"
+	},
+	{
+		"name": "Obtain HM03 Surf",
+		"category": "HMs"
+	},
+	{
+		"name": "Obtain HM04 Strength",
+		"category": "HMs"
+	},
+	{
+		"name": "Obtain HM05 Flash",
+		"category": "HMs"
+	},
+	{
+		"name": "Obtain HM06 Rock Smash",
+		"category": "HMs"
+	},
+
+	{
+		"name": "Visit 10 Pokemon Centres",
+		"category": "Misc"
+	},
+	{
+		"name": "Collect 25 TMs",
+		"category": "Misc"
+	},
+	{
+		"name": "Find and catch a Legendary",
+		"category": "Misc"
+	},
+	{
+		"name": "Find 10 Mega Stones",
+		"category": "Misc"
+	},
+	{
+		"name": "Catch a Pokemon in the Safari Zone",
+		"category": "Misc"
+	},
+	{
+		"name": "Beat a Gym Leader in a rematch",
+		"category": "Misc"
+	},
+
+	{
+		"name": "Beat May",
+		"category": "Misc"
+	},
+
+	{
+		"name": "Beat SS Anne Brendan",
+		"category": "Misc"
+	},
+
+	{
+		"name": "Beat Silph Co Rival",
+		"category": "Misc"
+	},
+
+	{
+		"name": "Catch a Pokemon of every type",
+		"category": "Misc"
+	},
+
+	{
+		"name": "Escape Cycling Road",
+		"category": "Misc"
+	},
+
+	{
+		"name": "Beat a Gym Leader with a monotype team",
+		"category": "Misc"
+	},
+	{
+		"name": "Catch 5 Pokemon from Raid Dens",
+		"category": "Misc"
+	},
+	{
+		"name": "Catch 30 Pokemon",
+		"category": "Misc"
+	},
+	{
+		"name": "Catch 20 Pokemon",
+		"category": "Misc"
+	},
+	{
+		"name": "Perform 3 item evolutions",
+		"category": "Misc"
+	},
+
+	{
+		"name": "Hatch an Egg",
+		"category": "Misc"
+	},
+
+	{
+		"name": "Beat every trainer in Pokemon Tower",
+		"category": "Misc"
+	},
+
+	{
+		"name": "Beat Arianna and Petrel in Silph Co",
+		"category": "Misc"
+	},
+
+	{
+		"name": "Beat the Elite 4",
+		"category": "Misc"
+	},
+
+{
+		"name": "Evolve 10 Pokemon",
+		"category": "Misc"
+	},
+{
+		"name": "Beat Mt Moon Petrel",
+		"category": "Misc"
+	},
+
+	{
+		"name": "Beat Safari Zone Brendan",
+		"category": "Misc"
+	},
+
+	{
+		"name": "Beat a Gym leader with a team of only the type they specialise in",
+		"category": "Misc"
+	}
+
+]
