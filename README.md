@@ -21,7 +21,7 @@ Ability Generator - https://perchance.org/t47rn8fh5s
 
 Item Generator - https://perchance.org/ascro3qfht
 
-TM Generator - https://www.random.org/ - Use numbers between 1-117. TMs not present in the game are visible on https://drive.google.com/drive/u/0/folders/1YaYM-8dzRlBRuJm1bmYrjJC6HGwTwl-x
+TM Generator - https://www.random.org/ - Use numbers between 1-117. TMs not present in the game are visible on https://docs.google.com/spreadsheets/d/1Ngfe8stIgqLKczGL0VFZe-SOYHAOZpDae1j9NJhr_fg/edit#gid=1081237399
 
 Item Generator - https://perchance.org/ascro3qfht
 
