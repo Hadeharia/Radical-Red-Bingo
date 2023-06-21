@@ -1,53 +1,53 @@
 [{
-		"name": "Catch Pikachu, and use its line in at least 1 boss fight",
+		"name": "Use Pikachu line in at least 1 boss fight",
 		"category": "Catch Pokémon"
 	},
 	{
-		"name": "Catch Gallade, and use its line in at least 1 boss fight",
+		"name": "Catch Gallade",
 		"category": "Catch Pokémon"
 	},
 	{
-		"name": "Catch Snover, and use its line in at least 1 boss fight",
+		"name": "Use Snover line in at least 1 boss fight",
 		"category": "Catch Pokémon"
 	},
 	{
-		"name": "Catch Honchkrow, and use its line against at least 1 Rocket Leader (or the E4)",
+		"name": "Catch Honchkrow",
 		"category": "Catch Pokémon"
 	},
 	{
-		"name": "Catch Dragapult, and use its line in at least 1 Gym (or the E4)",
+		"name": "Use Dragapult line in at least 1 Gym (or the E4)",
 		"category": "Catch Pokémon"
 	},
 	{
-		"name": "Catch Nidorino, and use its line against the E4",
+		"name": "Use Nidoqueen line against the E4",
 		"category": "Catch Pokémon"
 	},
 	{
-		"name": "Catch Whimsicott, and use its line against the E4",
+		"name": "Use Whimsicott line against the E4",
 		"category": "Catch Pokémon"
 	},
 	{
-		"name": "Catch Turtonator, and use its line against at least one Gym (or the E4)",
+		"name": "Use Turtonator against at least one Gym (or the E4)",
 		"category": "Catch Pokémon"
 	},
 	{
-		"name": "Catch Munna, and use its line against at least one Gym (or the E4)",
+		"name": "Use Musharna against at least one Gym (or the E4)",
 		"category": "Catch Pokémon"
 	},
 	{
-		"name": "Catch Pancham, and use its line against at least one Gym (or the E4)",
+		"name": "Use Pangoro against at least one Gym (or the E4)",
 		"category": "Catch Pokémon"
 	},
 	{
-		"name": "Catch Misdreavus and use its line against at least one boss fight",
+		"name": "Use Mismagius against at least one boss fight",
 		"category": "Catch Pokémon"
 	},
 	{
-		"name": "Catch Komala, and use its line against at least one boss fight",
+		"name": "Use Komala against at least one boss fight",
 		"category": "Catch Pokémon"
 	},
 	{
-		"name": "Catch Blastoise, and use its line in at least one Rival battle.",
+		"name": "Use Blastoise in at least one Rival battle.",
 		"category": "Catch Pokémon"
 	},
 
@@ -81,7 +81,17 @@
 	},
 
 	{
-		"name": "Catch and use 6 Ground Types in Gym battles",
+		"name": "Catch and use 10 Ground Types in Gym battles",
+		"category": "Typing"
+	},
+
+{
+		"name": "Catch 7 Fairy Types",
+		"category": "Typing"
+	},
+
+{
+		"name": "Use 2 Electric Types against the Elite 4",
 		"category": "Typing"
 	},
 	{
