@@ -1,13 +1,13 @@
 # Radical-Red-Bingo
 Base code for Radical Red Bingo
 
-This Json file is intended for use on Bingosync. When using Bingosync, select Custom (Advanced) as the "Game" ( it should be at the bottom of the dropdown), and Randomized as the "Variant". Then, paste the JSON file into the "Board" - this will generate a board from 25 random squares.
+The .txt file here is intended for use on Bingosync. When using Bingosync, select Custom (Advanced) as the "Game" ( it should be at the bottom of the dropdown), and Randomized as the "Variant". Then, paste the JSON file into the "Board" - this will generate a board from 25 random squares. I recommend Lockout as the mode, but both should work pretty well.
 
 This code is intended to be used for Bingo with Pokemon Radical Red. Documentation for the game is available below - this is not a guide to the game or affiliated in any way, merely an alternative way to play it.
 
 To replace a goal, simply change its name within the files. For example, if you want to remove Blastoise and replace it with Torchic, simply replace the instance of "Blastoise" with "Torchic". Pretty simple.
 
-I recommend using the resources below to reshuffle Pokemon, Abilities, TMs, Items and Types generated - the existing ones are merely a sample. They haven't all been added to ensure relatively balanced and varied boards - use your own knowledge of the game and tastes to shuffle goals and numbers as you see fit.
+I recommend using the resources below to reshuffle Pokemon, Abilities, TMs, Items and Types generated - the existing ones are a sample. All possible options haven't been added to ensure relatively balanced and varied boards - use your own knowledge of the game and tastes to shuffle goals and numbers as you see fit. I may write a script in the near-ish future to generate new goals automatically, but it'd take time due to the sheer number of fields I'd have to fill in.
 
 Radical Red, as of now, only has Pokemon and Abilities up to Gen 8, and is missing several moves, items and abilities. Keep this in mind when randomising!
 
